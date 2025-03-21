@@ -40,18 +40,29 @@ Agile is more beneficial for projects likely to experience a lot of changes in i
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ANS:
+Unit testing - This is where the functionality of individual modules of a sotware are tested. It is important because it checks how well each module works individually and allows for bugs that may cause issues in the future to be caught early
+Performance testing - This is where a software is pushed to its limits to see how well it handles stress. It is important because it shows the team how hard the software can be pushed
+Integration testing - This is where the project team tests how well the different modules of a software work together. It is important because it shows how well the software in the real world since the modules will be integrated.
+
+It is important to maintain high standards because it means that the software is more likely to meet the requirements of the client and the product itself will be difficult to break and easy to maintain.
 
 How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ANS:
+The scope defines what the project will cover and how it will cover it. Based on this, the software development team create a timetable of sorts with different milestones which are used to measure the progres sof the project. A work breakdown structure is a document that breaks down the deliverables of a project into stages that allow the software development team to visualise the processes they need to go through to complete their project. It is useful because it breaks down the steps needed to complete the project.
 What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ANS:
+Having a detailed project schedule is beneficial because it helps the project manager plan the available resources around a delivering a particular milestone which ultimately contributes to the timely delivery of a project. It also helps the team know if their project is on or off track as the project continues. Gantt charts help this process by visualising the steps involved in the project using horizontal bars (which makes it easier to track progress) and who is responsible for them.
+
 What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ANS:
+
 How can clearly defining the problem help in developing a more effective software solution?
-ANS:
+ANS:This is because without fully understanding a problem, we cannot begin to solve it. We need to have the full understanding of the root cause and not the symptoms of a problem to create an effective solution.
 How would you describe your software solution in a way that captures its essence without diving into technical details?
-ANS:
+ANS: I would avoid using jargon and instead use widely understood terms to describe the pain points that led to the project and how my project will solve these problems.
 What are the main features or functionalities that make your software stand out?
 ANS:
 What data is available regarding the market size and growth potential for your software?
+ANS: 
 How can understanding market trends inform your software’s positioning and development?
+ANS: By having knowledge of the direction that the marketing is going in, you can develop the best method to capitalise on the trend to gain market share.

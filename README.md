@@ -36,9 +36,11 @@ There may be resistance from users because they may feel that their opinions wer
 
 In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ANS:
+Agile is more beneficial for projects likely to experience a lot of changes in its course before getting to the end product while waterfall is best for large and complex projects with requirement s that don't change much. Examples of projects where agile can be used is development of mobile applications. This is because there can be incremental changes that can be made and tested by end users and changes are made by the software team based on their feedback. An example where the waterfall methodology is useful is projects in the healthcare industry because they would need to meet metrics that are scientifically defined and hence based on facts. These metrics don't change much.
 
 What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ANS:
+
 How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ANS:
 What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
